@@ -37,3 +37,42 @@ a {
 }
 
 
+li a:focus {
+    background-color: #EAB126
+}
+
+
+
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    margin-top: 120px;
+    gap: 40px;
+}
+
+
+.hero-item {
+    
+}
+
+.item-style {
+    font-size: 4rem;
+    letter-spacing: -1px;
+    line-height: 1.2;
+    max-width: 60%;
+    text-align: center;
+    
+}
+
+.item-horizontal {
+    display: flex;
+    justify-content: space-between; 
+    gap: 10px; 
+    
+}
+
+.item-horizontal p {
+  padding: 8px 12px;
+}
