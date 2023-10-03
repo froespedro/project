@@ -70,9 +70,13 @@ li a:focus {
     display: flex;
     justify-content: space-between; 
     gap: 10px; 
-    
 }
 
 .item-horizontal p {
   padding: 8px 12px;
+}
+
+.p-background {
+    background-color: var(--building-color1);
+    border-radius: 20px;
 }
