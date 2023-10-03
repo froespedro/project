@@ -1,5 +1,6 @@
 :root {
     --building-color1: #e8e5e480;
+    --building-color2: #7f7f7f;
 
 }
 
@@ -10,7 +11,7 @@
     box-sizing: border-box;
     list-style-type: none;
     text-decoration: none;
-
+    background-color: ;
 }
 
 a {
@@ -36,7 +37,3 @@ a {
 }
 
 
-.active:active {
-    background-color: #fff;
-    
-}
